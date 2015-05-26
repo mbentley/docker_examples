@@ -1,0 +1,15 @@
+*.iml
+*.log
+*.swp
+*.classpath
+*.DS_Store
+target/*
+s3-plugin-temp/*
+*.settings/*
+target-eclipse/*
+*.idea
+*.un*
+*.jasper
+bin/*
+out/*
+*.war
