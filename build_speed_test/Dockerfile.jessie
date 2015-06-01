@@ -1,0 +1,6 @@
+FROM debian:jessie
+ADD . /
+WORKDIR /
+USER 1
+ENTRYPOINT ["/bin/bash"]
+CMD ["-l"]
